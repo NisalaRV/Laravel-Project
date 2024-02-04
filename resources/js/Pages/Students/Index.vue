@@ -34,7 +34,7 @@
                    <input type="file" class="form-control" id="image"   @change="handleImageChange" >
                   </div>
                 <br>
-                  <button type="submit" class="btn btn-primary">Add </button>
+                  <button type="submit" class="btn btn-primary">Save </button>
                 </form>
               </div>
             </div>
@@ -251,11 +251,10 @@
 
   <style scoped>
 
-  
+
    .main-con{
     color: #4caf89;
     margin-left: 650px;
-    text:bold;
   }
 .table-container {
   width: 100%;
